@@ -1,3 +1,3 @@
 # Spaceship_prediction_model .
 
-In this repo i upload a kaggle compitition of spaceship titanic .
+In this repository i upload a kaggle compitition of spaceship titanic .
