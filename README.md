@@ -268,13 +268,7 @@ Spaceship-Titanic/
 
 ---
 
-## 👨‍💻 Author
 
-**Kishan Kumar**
-
-B.Tech – Artificial Intelligence & Data Science
-
----
 
 ## ⭐ Conclusion
 
