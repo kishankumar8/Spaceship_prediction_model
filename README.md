@@ -31,6 +31,8 @@ The main objective of this project is to:
 
 ---
 
+# Accuracy of model is (77%) 
+
 ## 🛠️ Technologies & Libraries Used
 
 - Python
