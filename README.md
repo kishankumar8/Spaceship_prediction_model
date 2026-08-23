@@ -4,6 +4,7 @@ In this repository i upload a kaggle compitition of spaceship titanic .
 
 
 # 🚀 Spaceship Titanic - Machine Learning Project
+
 -> In thid project i faced many problems but every problem taught me a new approach and new progress .
 
 ## 📌 Project Overview
