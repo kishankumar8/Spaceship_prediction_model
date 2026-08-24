@@ -77,7 +77,7 @@ Test Data Prediction
 Kaggle Submission
 
 
-Bilk
+
 # 🚀 Spaceship Titanic - Machine Learning Project
 
 ## 📌 Project Overview
