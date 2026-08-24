@@ -116,20 +116,7 @@ The main objective of this project is to:
 
 ---
 
-## 🔄 Project Workflow
 
-```text
-Dataset
-   ↓
-Data Loading
-   ↓
-Data Understanding
-   ↓
-Data Cleaning
-   ↓
-Handling Missing Values
-   ↓
-Feature & Ta
 
 ## 🧹 Data Preprocessing
 
