@@ -129,26 +129,7 @@ Data Cleaning
    ↓
 Handling Missing Values
    ↓
-Feature & Target Separation
-   ↓
-Categorical Encoding
-   ↓
-Train-Validation Split
-   ↓
-Logistic Regression
-   ↓
-Model Training
-   ↓
-Prediction
-   ↓
-Model Evaluation
-   ↓
-Test Data Prediction
-   ↓
-Kaggle Submission
-````
-
----
+Feature & Ta
 
 ## 🧹 Data Preprocessing
 
