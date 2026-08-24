@@ -77,9 +77,7 @@ Test Data Prediction
 Kaggle Submission
 
 
-Bilkul 👍 Ye **GitHub README.md** ke liye simple aur professional version hai. Direct copy-paste kar sakte ho:
-
-````markdown
+Bilk
 # 🚀 Spaceship Titanic - Machine Learning Project
 
 ## 📌 Project Overview
