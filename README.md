@@ -1,6 +1,6 @@
 # Spaceship_prediction_model .
 
-In this repository i upload a kaggle compitition of spaceship titanic .
+In this repository upload a kaggle compitition of spaceship titanic .
 
 
 # 🚀 Spaceship Titanic - Machine Learning Project
